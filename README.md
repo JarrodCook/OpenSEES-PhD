@@ -1,4 +1,7 @@
 # OpenSEES-PhD
+
+## Excerpt from Chapter 7 *Rocking Model Development* of my PhD thesis *"Design, Testing and Simulation of Grip 'n' Grab Ratcheting, Tension-only Devices for Seismic Energy Dissipation Systems"*
+
 A two-dimensional flexible rocking frame model was created using OpenSEES software [OpenSEES
 2007] and an overview is presented in Figure 7.1. The purpose of the model is to provide a
 computationally inexpensive, yet suitable approximation of the response of a flexible rocking frame
@@ -23,3 +26,4 @@ kept simple. While higher mode effects could be considered, the influence of hig
 to have limited influence on the base rotation and the required capacity of the GNG dissipative
 element.
 
+<img src="https://user-images.githubusercontent.com/77759011/105425700-becb6e00-5cae-11eb-9eb9-1b1f4eb29ff7.JPG" width="75%"></img> 
