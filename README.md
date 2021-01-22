@@ -3,6 +3,9 @@
 This is a selection of files from my work towards my PhD thesis *"Design, Testing and Simulation of Grip 'n'
 Grab Ratcheting, Tension-only Devices for Seismic Energy Dissipation Systems"*
 
+I used MATLAB to model the behaviour of the novel energy dissipation devices under cyclic loading, and later
+developed a flexible rocking frame model in OpenSEES incorporating effects of gravity forces, post-tensioning and energy dissipation devices.
+
 ## Thesis Abstract
 
 This thesis details the development of a ratcheting, tension-only mechanism for use with seismic
